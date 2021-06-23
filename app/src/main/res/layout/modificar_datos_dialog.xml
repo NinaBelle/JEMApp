@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/editApellido"
+        android:layout_width="324dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Igrese su apellido"
+        android:inputType="text"
+        tools:ignore="DuplicateIds,MissingConstraints"
+        tools:layout_editor_absoluteX="-2dp"
+        tools:layout_editor_absoluteY="5dp" />
+
+
+    <EditText
+        android:id="@+id/editNombre"
+        android:layout_width="325dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Ingrese su nombre"
+        android:inputType="text"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="74dp" />
+
+    <EditText
+        android:id="@+id/editDNI"
+        android:layout_width="325dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Ingrese su DNI"
+        android:inputType="text"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="-1dp"
+        tools:layout_editor_absoluteY="136dp" />
+
+    <EditText
+        android:id="@+id/editTitulo"
+        android:layout_width="327dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Ingrese titulo universitario"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editUniversidad"
+        android:layout_width="327dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Igrese Universidad"
+        android:inputType="text"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="-4dp"
+        tools:layout_editor_absoluteY="280dp" />
+
+    <EditText
+        android:id="@+id/editDomicilio"
+        android:layout_width="321dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Ingrese domicilio"
+        android:inputType="textPersonName"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="207dp" />
+
+    <EditText
+        android:id="@+id/editCorreo"
+        android:layout_width="321dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Ingrese Correo"
+        android:inputType="textPersonName"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="207dp" />
+
+
+</android.widget.LinearLayout>

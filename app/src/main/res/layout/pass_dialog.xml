@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical" >
+
+
+    <TextView
+        android:id="@+id/txtContrasenia"
+        android:layout_width="297dp"
+        android:layout_height="43dp"
+        android:layout_marginRight="40dp"
+        android:text="ingrese Contraseña: "
+     />
+
+    <EditText
+        android:id="@+id/EditText_Pwd1"
+        android:layout_width="308dp"
+        android:layout_height="56dp"
+        android:ems="10"
+        android:inputType="textPassword"
+       />
+
+
+    <TextView
+        android:id="@+id/txtContrasenia2"
+        android:layout_width="311dp"
+        android:layout_height="37dp"
+        android:layout_marginRight="28dp"
+        android:text="ingrese Contraseña nuevamente: "
+        />
+
+    <EditText
+        android:id="@+id/EditText_Pwd2"
+        android:layout_width="308dp"
+        android:layout_height="56dp"
+        android:ems="10"
+        android:inputType="textPassword" />
+
+</LinearLayout>

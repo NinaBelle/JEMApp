@@ -1,0 +1,82 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageLogo"
+
+        android:layout_width="match_parent"
+        android:layout_height="215dp"
+        android:layout_gravity="center"
+        android:paddingEnd="30dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/txtUsuario"
+        android:layout_width="374dp"
+        android:layout_height="29dp"
+        android:text="Usuario: " />
+
+    <EditText
+        android:id="@+id/editUsuario"
+        android:layout_width="374dp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txtContrasenia"
+        android:layout_width="372dp"
+        android:layout_height="37dp"
+        android:text="Contraseña: " />
+
+    <EditText
+        android:id="@+id/editContrasenia"
+        android:layout_width="372dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/btnLOGUIN"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/boton_redondo"
+        android:text="Iniciar Sesion"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="10dp"
+        android:textColor="#000000"
+        android:textColorLink="@color/colorAccent" />
+
+    <Button
+        android:id="@+id/btnRecuperar"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/boton_redondo"
+        android:text="Olvide Mi contraseña"
+        android:textColor="#000000"
+        android:textColorLink="@color/colorAccent" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Copyright © All Rigths Reserved 2019"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Romina Velazquez - Adriana Laureano"
+        android:textAlignment="center" />
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="IV Jornadas de Enseñanza de la Matemática 2019"
+        android:textAlignment="center"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Estimado Usuario, es importante que actualice sus datos a la brevedad debido a que su certificado sera emitido según sus datos personales"
+        android:textAlignment="center"
+        android:paddingBottom="16dp"
+        android:textColor="@color/colorAlert"
+        android:textColorLink="@color/colorPrimary"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SI LLEGÓ A ESTA INSTANCIA ES PORQUE SU PAGO SE ACREDITÓ CORRECTAMENTE"
+        android:textAlignment="center"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textStyle="bold"
+        android:background="@drawable/borde_texto"
+        android:textColor="#008080"
+        android:textSize="24sp" />
+
+</LinearLayout>

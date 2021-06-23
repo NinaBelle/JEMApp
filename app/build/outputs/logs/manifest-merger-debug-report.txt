@@ -1,0 +1,422 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:2:1-75:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\795699d845e4d04d123db90298b9fd57\AndroidManifest.xml:17:1-24:12
+MERGED from [cn.pedant.sweetalert:library:1.3] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\a74ac1ee82ad01a1f0cdeee00577f17a\AndroidManifest.xml:2:1-13:12
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2b839056ae581849d19fc723ab454ec0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fd8092f6bf0e706d2ec2b38b94a6ce2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\87c0aa389f2e658677758c9f0f37e743\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\5e539c968cfad258229b15073878c13e\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\0fd5477ab92d2488324f6ba6200ca281\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\de1c9adc9bc4f6d1111c36efd5e4df99\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3aee7e4ef89380ba70963726c143ecbe\AndroidManifest.xml:17:1-28:12
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\b24a5f9d89ce31693a094a1bd3209338\AndroidManifest.xml:2:1-13:12
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\eb6f1cf33bf5971555ad515428bed6be\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3fe067bdbff76407990cdaeb036762fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2eae49b225b03f201df19c9604119103\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\ab30e60af420bfa2c01784a7e6b93884\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3a9359fb8e2a62ca2b620287c5efe579\AndroidManifest.xml:2:1-14:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:17:1-56:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2c8688b001ede45cac50a3239b2346c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\9f5ed9b0b13e31f2a7f252e60863329e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\89f06fd4cbf716b7775d0079ced68e84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\b424e1361af0318d2577ff0590ac00e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3bb6e6e0f7a3dca18da4b9cc8cf5c411\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\633c05f4082dca255d8f08eced2a2909\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3f0ae7ce9b974df5f2e1f19781f6ce45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\ca302d5f8c9a81b916409f95dcc6021f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\a4b257225346658d13d90b996ae9a793\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\6abe6e9d8f937372025fe4bbbc35e81b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\63172f0cd118c897584a4d0bb9d0d00a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\8cdae68e540bbf6c1de37f604c50e0ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\da55a1b801350025832371909c4f21b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\b5d1a7265ade724e6f5270e42a0f8c3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\9059238b409496801ca058c62f19082a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\06d2fa45086c21d5746dc9e8e939355e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\ec0ae85718e5824a501c3eb28b52f86f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\e7a7796e2298e18066c671606432742f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2b3e01f12a0e841db7e3005761ed0d8b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\a9c37235f378e5f045cba43737324d6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\b3dbe2996fa05fbb3ffbba78a2f8e963\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\57b9e75960849eefd74892fc36b18710\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\d7ff1d7a5b0ae0dfe5694c169d63bfed\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\50fb01c033f1a8f9068219d9361f2461\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\21fa5527d827772ead1ca0dd73a63470\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2d84d99e82d43644d275dd7dc1a9267a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\433944d201525e02b13910d654de13b9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\f27ed55259719dec25797ca324be3c88\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:2:1-75:12
+	package
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:2:1-75:12
+		INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:2:1-75:12
+		INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\5e539c968cfad258229b15073878c13e\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\5e539c968cfad258229b15073878c13e\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:12:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:22:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:14:22-78
+application
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:16:5-73:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\795699d845e4d04d123db90298b9fd57\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\795699d845e4d04d123db90298b9fd57\AndroidManifest.xml:22:5-20
+MERGED from [cn.pedant.sweetalert:library:1.3] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\a74ac1ee82ad01a1f0cdeee00577f17a\AndroidManifest.xml:11:5-20
+MERGED from [cn.pedant.sweetalert:library:1.3] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\a74ac1ee82ad01a1f0cdeee00577f17a\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2b839056ae581849d19fc723ab454ec0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2b839056ae581849d19fc723ab454ec0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\87c0aa389f2e658677758c9f0f37e743\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\87c0aa389f2e658677758c9f0f37e743\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\5e539c968cfad258229b15073878c13e\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\5e539c968cfad258229b15073878c13e\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\0fd5477ab92d2488324f6ba6200ca281\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\0fd5477ab92d2488324f6ba6200ca281\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\de1c9adc9bc4f6d1111c36efd5e4df99\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\de1c9adc9bc4f6d1111c36efd5e4df99\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3aee7e4ef89380ba70963726c143ecbe\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3aee7e4ef89380ba70963726c143ecbe\AndroidManifest.xml:22:5-26:19
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\b24a5f9d89ce31693a094a1bd3209338\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\b24a5f9d89ce31693a094a1bd3209338\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\eb6f1cf33bf5971555ad515428bed6be\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\eb6f1cf33bf5971555ad515428bed6be\AndroidManifest.xml:11:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\ab30e60af420bfa2c01784a7e6b93884\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\ab30e60af420bfa2c01784a7e6b93884\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3a9359fb8e2a62ca2b620287c5efe579\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3a9359fb8e2a62ca2b620287c5efe579\AndroidManifest.xml:7:5-12:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:46:5-54:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\06d2fa45086c21d5746dc9e8e939355e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\06d2fa45086c21d5746dc9e8e939355e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\ec0ae85718e5824a501c3eb28b52f86f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\ec0ae85718e5824a501c3eb28b52f86f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\06d2fa45086c21d5746dc9e8e939355e\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:18:9-43
+		REJECTED from [com.pnikosis:materialish-progress:1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2b839056ae581849d19fc723ab454ec0\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:23:9-40
+	tools:replace
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:21:9-37
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:32:9-34:55
+	android:value
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:34:13-52
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:33:13-58
+activity#com.example.jemapp.UbicacionActivity
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:36:9-38:64
+	android:label
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:38:13-61
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:37:13-46
+activity#com.example.jemapp.AsistenciaEntrada
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:39:9-55
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:39:19-52
+activity#com.example.jemapp.DetalleDia
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:40:9-48
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:40:19-45
+activity#com.example.jemapp.DetalleAsistAlumn
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:41:9-55
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:41:19-52
+activity#com.example.jemapp.AsistenciaSalida
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:42:9-54
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:42:19-51
+activity#com.example.jemapp.EscanerEntradaActivity
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:43:9-60
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:43:19-57
+activity#com.example.jemapp.EscanerSalidaActivity
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:44:9-59
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:44:19-56
+activity#com.example.jemapp.menuOrganizadorActivity
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:45:9-49:61
+	android:label
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:47:13-68
+	android:configChanges
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:49:13-59
+	android:theme
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:46:13-52
+activity#com.example.jemapp.menuColaboradorActivity
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:50:9-54:61
+	android:label
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:52:13-68
+	android:configChanges
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:54:13-59
+	android:theme
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:51:13-52
+activity#com.example.jemapp.menuAsistenteActivity
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:55:9-59:61
+	android:label
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:57:13-66
+	android:configChanges
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:59:13-59
+	android:theme
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:58:13-56
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:56:13-50
+meta-data#preloaded_fonts
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:61:9-63:57
+	android:resource
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:63:13-54
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:62:13-43
+activity#com.example.jemapp.RecuperarPass
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:65:9-51
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:65:19-48
+activity#com.example.jemapp.MainActivity
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:66:9-72:20
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:66:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:67:13-71:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:68:17-69
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:68:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:70:17-77
+	android:name
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml:70:27-74
+uses-sdk
+INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\795699d845e4d04d123db90298b9fd57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\795699d845e4d04d123db90298b9fd57\AndroidManifest.xml:20:5-44
+MERGED from [cn.pedant.sweetalert:library:1.3] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\a74ac1ee82ad01a1f0cdeee00577f17a\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.pedant.sweetalert:library:1.3] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\a74ac1ee82ad01a1f0cdeee00577f17a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2b839056ae581849d19fc723ab454ec0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2b839056ae581849d19fc723ab454ec0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fd8092f6bf0e706d2ec2b38b94a6ce2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fd8092f6bf0e706d2ec2b38b94a6ce2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\87c0aa389f2e658677758c9f0f37e743\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\87c0aa389f2e658677758c9f0f37e743\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\5e539c968cfad258229b15073878c13e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\5e539c968cfad258229b15073878c13e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\0fd5477ab92d2488324f6ba6200ca281\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\0fd5477ab92d2488324f6ba6200ca281\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\de1c9adc9bc4f6d1111c36efd5e4df99\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\de1c9adc9bc4f6d1111c36efd5e4df99\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3aee7e4ef89380ba70963726c143ecbe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3aee7e4ef89380ba70963726c143ecbe\AndroidManifest.xml:20:5-44
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\b24a5f9d89ce31693a094a1bd3209338\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\b24a5f9d89ce31693a094a1bd3209338\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\eb6f1cf33bf5971555ad515428bed6be\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\eb6f1cf33bf5971555ad515428bed6be\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3fe067bdbff76407990cdaeb036762fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3fe067bdbff76407990cdaeb036762fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2eae49b225b03f201df19c9604119103\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2eae49b225b03f201df19c9604119103\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\ab30e60af420bfa2c01784a7e6b93884\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\ab30e60af420bfa2c01784a7e6b93884\AndroidManifest.xml:7:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3a9359fb8e2a62ca2b620287c5efe579\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3a9359fb8e2a62ca2b620287c5efe579\AndroidManifest.xml:5:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2c8688b001ede45cac50a3239b2346c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2c8688b001ede45cac50a3239b2346c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\9f5ed9b0b13e31f2a7f252e60863329e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\9f5ed9b0b13e31f2a7f252e60863329e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\89f06fd4cbf716b7775d0079ced68e84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\89f06fd4cbf716b7775d0079ced68e84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\b424e1361af0318d2577ff0590ac00e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\b424e1361af0318d2577ff0590ac00e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3bb6e6e0f7a3dca18da4b9cc8cf5c411\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3bb6e6e0f7a3dca18da4b9cc8cf5c411\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\633c05f4082dca255d8f08eced2a2909\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\633c05f4082dca255d8f08eced2a2909\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3f0ae7ce9b974df5f2e1f19781f6ce45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3f0ae7ce9b974df5f2e1f19781f6ce45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\ca302d5f8c9a81b916409f95dcc6021f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\ca302d5f8c9a81b916409f95dcc6021f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\a4b257225346658d13d90b996ae9a793\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\a4b257225346658d13d90b996ae9a793\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\6abe6e9d8f937372025fe4bbbc35e81b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\6abe6e9d8f937372025fe4bbbc35e81b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\63172f0cd118c897584a4d0bb9d0d00a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\63172f0cd118c897584a4d0bb9d0d00a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\8cdae68e540bbf6c1de37f604c50e0ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\8cdae68e540bbf6c1de37f604c50e0ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\da55a1b801350025832371909c4f21b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\da55a1b801350025832371909c4f21b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\b5d1a7265ade724e6f5270e42a0f8c3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\b5d1a7265ade724e6f5270e42a0f8c3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\9059238b409496801ca058c62f19082a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\9059238b409496801ca058c62f19082a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\06d2fa45086c21d5746dc9e8e939355e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\06d2fa45086c21d5746dc9e8e939355e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\ec0ae85718e5824a501c3eb28b52f86f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\ec0ae85718e5824a501c3eb28b52f86f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\e7a7796e2298e18066c671606432742f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\e7a7796e2298e18066c671606432742f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2b3e01f12a0e841db7e3005761ed0d8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2b3e01f12a0e841db7e3005761ed0d8b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\a9c37235f378e5f045cba43737324d6f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\a9c37235f378e5f045cba43737324d6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\b3dbe2996fa05fbb3ffbba78a2f8e963\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\b3dbe2996fa05fbb3ffbba78a2f8e963\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\57b9e75960849eefd74892fc36b18710\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\57b9e75960849eefd74892fc36b18710\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\d7ff1d7a5b0ae0dfe5694c169d63bfed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\d7ff1d7a5b0ae0dfe5694c169d63bfed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\50fb01c033f1a8f9068219d9361f2461\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\50fb01c033f1a8f9068219d9361f2461\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\21fa5527d827772ead1ca0dd73a63470\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\21fa5527d827772ead1ca0dd73a63470\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2d84d99e82d43644d275dd7dc1a9267a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\2d84d99e82d43644d275dd7dc1a9267a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\433944d201525e02b13910d654de13b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\433944d201525e02b13910d654de13b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\f27ed55259719dec25797ca324be3c88\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\f27ed55259719dec25797ca324be3c88\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adriana LauEsc\AndroidStudioProjects\JEMapp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\5e539c968cfad258229b15073878c13e\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\5e539c968cfad258229b15073878c13e\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\5e539c968cfad258229b15073878c13e\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\5e539c968cfad258229b15073878c13e\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\5e539c968cfad258229b15073878c13e\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\5e539c968cfad258229b15073878c13e\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\5e539c968cfad258229b15073878c13e\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\5e539c968cfad258229b15073878c13e\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\0fd5477ab92d2488324f6ba6200ca281\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\0fd5477ab92d2488324f6ba6200ca281\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\0fd5477ab92d2488324f6ba6200ca281\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\0fd5477ab92d2488324f6ba6200ca281\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3aee7e4ef89380ba70963726c143ecbe\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3aee7e4ef89380ba70963726c143ecbe\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3aee7e4ef89380ba70963726c143ecbe\AndroidManifest.xml:24:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3a9359fb8e2a62ca2b620287c5efe579\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3a9359fb8e2a62ca2b620287c5efe579\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3a9359fb8e2a62ca2b620287c5efe579\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\3a9359fb8e2a62ca2b620287c5efe579\AndroidManifest.xml:9:13-64
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:43:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:47:9-53:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:50:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:49:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Adriana LauEsc\.gradle\caches\transforms-2\files-2.1\fbfba373f7e6d9eced5f6095073d602f\AndroidManifest.xml:48:13-74

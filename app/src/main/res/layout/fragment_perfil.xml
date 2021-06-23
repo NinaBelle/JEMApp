@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".perfilFragment">
+    <ImageView
+        android:id="@+id/foto"
+        android:layout_width="213dp"
+        android:layout_height="191dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/ic_menu_camera"
+        android:layout_gravity="center_horizontal"
+        />
+    <Button
+        android:id="@+id/buttonFoto"
+        android:layout_width="115dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/boton_redondo"
+        android:text="Subir Foto"
+        android:layout_gravity="center_horizontal"
+        />
+
+    <TextView
+        android:id="@+id/textNombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Nombre: "
+        android:textStyle="bold"
+        android:layout_marginLeft="8dp"
+        />
+
+    <TextView
+        android:id="@+id/textApellido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Apellido: "
+        android:textStyle="bold"
+        android:layout_marginLeft="8dp"
+         />
+
+    <TextView
+        android:id="@+id/textDNI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DNI: "
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="8dp"
+         />
+
+    <TextView
+        android:id="@+id/textDomicilio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Domicilio: "
+        android:layout_marginLeft="8dp"
+         />
+
+    <TextView
+        android:id="@+id/textCorreo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Correo: "
+        android:layout_marginLeft="8dp"
+         />
+
+    <TextView
+        android:id="@+id/textTitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Titulo: "
+        android:layout_marginLeft="8dp"
+         />
+
+    <TextView
+        android:id="@+id/textUniversidad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Universidad: "
+        android:layout_marginLeft="8dp"
+         />
+
+    <TextView
+        android:id="@+id/textID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@android:string/cancel"
+        android:visibility="invisible"
+         />
+
+    <Button
+        android:id="@+id/buttonPass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/boton_redondo"
+        android:text="MODIFICAR Contraseña"
+        android:textColor="#F8F8F5"
+        android:textStyle="bold"
+         />
+
+
+
+    <Button
+        android:id="@+id/buttonMod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/boton_redondo"
+        android:text="Modificar Datos"
+        android:textColor="#F8F8F5"
+        android:textStyle="bold"
+         />
+
+    <Button
+        android:id="@+id/buttonCodigoQR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/boton_redondo"
+        android:text="Ver Código QR"
+        android:textColor="#F8F8F5"
+        android:textStyle="bold"
+         />
+
+</LinearLayout>
+</ScrollView>
